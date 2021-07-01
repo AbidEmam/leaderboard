@@ -1,0 +1,59 @@
+.body{
+    background-color: #9F9F9F;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.players p{
+    font-weight: 600;
+}
+
+.players{
+    background-color: white;
+    margin: 40px;
+    width: 870px;
+
+}
+.blog img{
+    width: 177px;
+}
+.bycolor{
+    color: dimgray;
+}
+.blog p{
+    color: blue;
+}
+.course{
+    border-radius: 10px;
+    background-color: white;
+    width: 870px;
+}
+.course img{
+    width: 234px;
+}
+.stars img{
+    width: 10px;
+    height: 9px;
+}
+.btn01{
+    width: 94.83px;
+    height: 
+    29.38px;
+    background-color: 
+    #FFE4E8;
+    border: none;
+ 
+    border-radius: 14.6913px;
+    color: 
+    #FF4A60;
+}
+.card-img-top{
+    padding-top: 10px;
+   padding-left: 10px;
+}
+.cardborder{
+    border: none;
+}
